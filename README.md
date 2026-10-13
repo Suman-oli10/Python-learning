@@ -35,7 +35,7 @@ Additional topics and exercises may be added as I continue learning and practici
 
 The repository is organized into chapter-wise folders, with separate folders for practice sets where appropriate.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3** — Programming language used to write the programs.
 - **Visual Studio Code** — Code editor used for writing and practicing Python.
@@ -87,7 +87,7 @@ py filename.py
 
 Replace `filename.py` with the name of the Python program you want to execute.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 Through this repository, I aim to:
 
@@ -113,7 +113,7 @@ These are future learning goals and may be maintained in separate repositories a
 
 This repository represents my ongoing programming journey. I may add new examples, solve additional practice problems, improve existing code, and organize topics as my understanding develops.
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a **BSc. CSIT student** learning programming through coursework, independent study, and hands-on projects. I created this repository to document my Python practice, strengthen my technical skills, and build a portfolio of work as I progress toward more advanced development projects.
 
