@@ -10,9 +10,6 @@ This repository organizes Python code and practice exercises by topic, making it
 
 Rather than containing only theoretical notes, it focuses on practical implementation through small programs and problem-solving exercises.
 
-##  Topics Covered
-
-The repository includes Python fundamentals such as:
 # Topics Covered
 
 The repository includes Python fundamentals such as:
